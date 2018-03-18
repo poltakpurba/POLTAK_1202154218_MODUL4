@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">POLTAK_1202154218_MODUL4</string>
+    <string name="list_nama_mahasiswa">List Nama Mahasiswa</string>
+    <string name="gambar">Gambar</string>
+    <string name="pilih">PILIH</string>
+    <string name="mulai_asynctask">Mulai AsyncTask</string>
+    <string name="cari_gambar">CARI GAMBAR</string>
+    <string name="mahasiswa">List Nama Mahasiswa</string>
+    <string-array name="namaMhs">
+        <item>ani</item>
+        <item>ena</item>
+        <item>via</item>
+        <item>devina</item>
+        <item>betsy</item>
+        <item>anthon</item>
+        <item>ronald bucin</item>
+        <item>dimas</item>
+        <item>ferdi</item>
+        <item>Poltak</item>
+        <item>ganteng</item>
+        <item>septian</item>
+        <item>sianturi</item>
+
+    </string-array>
+
+</resources>
